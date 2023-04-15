@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marygrace Reyes"
+  name             : &name "Marygrace Reyes"
   avatar           : "profile.png"
-  bio              : "GIS Graduate Student at UMBC. Financial Aid Analyst at Howard Community College"
+  bio              : &bio "GIS Graduate Student at UMBC. Financial Aid Analyst at Howard Community College"
   location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mgfjreyes@gmail.com"
+  email            : &email "mgfjreyes@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://stemg28.github.io/"
+  github           : &github "https://stemg28.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/marygrace-reyes/"
+  linkedin         :&linkedin "https://www.linkedin.com/in/marygrace-reyes/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
